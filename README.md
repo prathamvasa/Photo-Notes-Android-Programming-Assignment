@@ -13,7 +13,7 @@ View Photo Activity:
 This activity is simple: it displays the photo and the caption that was clicked on in the List Activity.
 This is launched whenever you click on an item in the list.
 
-Add Photo Activity
+Add Photo Activity:
 This activity has 3 fields:
 EditText field for the caption
 Button for taking the photo which launches the camera intent.
